@@ -48,7 +48,7 @@ Zerodha/
 ## ⚙️ Installation & Setup
 
 ### 1. Clone repository
-git clone https://github.com/your-username/zerodha-mern.git
+git clone https://github.com/anchallll02/zerodha_mern_project.git
 cd zerodha-mern
 
 ---

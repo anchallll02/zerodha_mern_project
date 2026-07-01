@@ -120,4 +120,4 @@ This project is for educational purposes only and is not affiliated with Zerodha
 ## 👨‍💻 Author
 
 Your Name
-GitHub: https://github.com/your-username
+GitHub: https://github.com/anchallll02

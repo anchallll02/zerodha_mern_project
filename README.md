@@ -86,31 +86,6 @@ npm start
 
 ---
 
-## 🌐 API Endpoints
-
-- GET /api/holdings
-- GET /api/positions
-- POST /api/order
-- POST /api/auth/login
-
----
-
-## 📸 Screenshots
-
-Add screenshots here
-
----
-
-## 🤝 Contribution
-
-- Fork the repo
-- Create a new branch
-- Commit changes
-- Push branch
-- Create Pull Request
-
----
-
 ## 📜 License
 
 This project is for educational purposes only and is not affiliated with Zerodha.
@@ -119,5 +94,5 @@ This project is for educational purposes only and is not affiliated with Zerodha
 
 ## 👨‍💻 Author
 
-Your Name
+Anchallll
 GitHub: https://github.com/anchallll02
